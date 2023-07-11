@@ -1,7 +1,8 @@
-package com.waterflowflow.developmenttemplatekotlin
+package com.waterflowflow.developmenttemplatekotlin.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.waterflowflow.developmenttemplatekotlin.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
